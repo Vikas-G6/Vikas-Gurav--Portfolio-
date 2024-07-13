@@ -1,0 +1,78 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": " Languages & Frameworks: HTML, CSS, JavaScript, React and  Tools: Bootstrap, Tailwind CSS, SASS, Webpack"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "Languages & Frameworks: Node.js, Express.js, Python, Databases: MySQL, MongoDB, Firebase"
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "Tools & Technologies: Figma, Adobe XD, Sketch and Principles: User Research, Prototyping, Usability Testing, Interaction Design"
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "Expertise: Custom Web Design, Responsive Layouts, CMS Integration, Ecommerce Solutions, Animation & Interactions"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Book Store",
+        "description": "Developed a full-featured Book Store web application using the MERN stack, enabling seamless CRUD operations with a clean, user-friendly UI. Implemented responsive design and optimized performance for enhanced user experience.",
+        "link": "https://github.com/Vikas-G6/BOOK_STORE-Frontend-/tree/main"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "TCET- Website",
+        "description": "Developed a responsive website for Thakur College of Engineering and Technology using HTML,CSS, JavaScript, and Bootstrap, featuring dropdown menus, image carousels, and announcement marquees",
+        "link": "https://vikas-g6.github.io/TCET_Website/#" 
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "Spotify-Clone",
+        "description": "Developed a Spotify-inspired web application featuring user authentication, personalized playlists, and album displays using HTML, CSS, and JavaScript",
+        "link": ""
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Vikas brought fresh ideas and excelled in front-end development, creating a user-friendly interface. However, there were delays and challenges on the back-end. With more experience, they will handle complex projects more smoothly",
+        "author_name": "Dianne Russel",
+        "author_designation": "Tech Innovations Inc."
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Vikas showed great potential and a strong willingness to learn. While there were some challenges with complex back-end integrations, her dedication and quick problem-solving were commendable. With more experience, she will be a valuable asset",
+        "author_name": "Kristin Watson",
+        "author_designation": "Web Solutions LLC."
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Feel free to provide feedback ",
+        "author_name": "..........",
+        "author_designation": "............"
+      }
+    ]
+  }
+  
