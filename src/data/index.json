@@ -35,17 +35,24 @@
       },
       {
         "id": "2",
+        "src": "./img/placeholder-image-4.png",
+        "title": "Order-IT",
+        "description": "Developed a full-featured Food Delivery application using the MERN stack, enabling users to browse restaurants, place orders, and track them in real-time. Integrated secure authentication, payment gateways, and responsive design, ensuring a seamless and user-friendly experience across all devices.",
+        "link": "https://www.linkedin.com/posts/vikas-gurav_webdevelopment-mernstack-fullstackdeveloper-activity-7238554286656282624-anF8?utm_source=share&utm_medium=member_desktop" 
+      },
+      {
+        "id": "3",
         "src": "./img/placeholder-image-1.png",
         "title": "TCET- Website",
         "description": "Developed a responsive website for Thakur College of Engineering and Technology using HTML,CSS, JavaScript, and Bootstrap, featuring dropdown menus, image carousels, and announcement marquees",
         "link": "https://vikas-g6.github.io/TCET_Website/#" 
       },
       {
-        "id": "3",
+        "id": "4",
         "src": "./img/placeholder-image-2.png",
         "title": "Spotify-Clone",
         "description": "Developed a Spotify-inspired web application featuring user authentication, personalized playlists, and album displays using HTML, CSS, and JavaScript",
-        "link": ""
+        "link": "https://www.linkedin.com/posts/vikas-gurav_spotifyclone-musiclovers-sigmawebdevelopment-activity-7176988805134966784-12tC?utm_source=share&utm_medium=member_desktop"
       }
     ],
     "testimonial": [
